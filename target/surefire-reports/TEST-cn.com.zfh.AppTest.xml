@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="cn.com.zfh.AppTest" time="0.043" tests="1" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="cn.com.zfh.AppTest" time="0.03" tests="1" errors="0" skipped="0" failures="0">
   <properties>
     <property name="gopherProxySet" value="false"/>
     <property name="awt.toolkit" value="sun.lwawt.macosx.LWCToolkit"/>
@@ -17,7 +17,7 @@
     <property name="user.country" value="CN"/>
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="sun.boot.library.path" value="/Applications/IntelliJ IDEA.app/Contents/jdk/Contents/Home/jre/lib"/>
-    <property name="sun.java.command" value="/Users/zhangfuhaozhang/workspace/DemoClass2/target/surefire/surefirebooter4193638148982402782.jar /Users/zhangfuhaozhang/workspace/DemoClass2/target/surefire 2019-11-05T09-40-37_803-jvmRun1 surefire6123297151342518048tmp surefire_05852238110848947618tmp"/>
+    <property name="sun.java.command" value="/Users/zhangfuhaozhang/workspace/DemoClass2/target/surefire/surefirebooter4520187411928522964.jar /Users/zhangfuhaozhang/workspace/DemoClass2/target/surefire 2019-11-05T11-14-40_270-jvmRun1 surefire4964081062838178749tmp surefire_07350543105717573453tmp"/>
     <property name="http.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="surefire.test.class.path" value="/Users/zhangfuhaozhang/workspace/DemoClass2/target/test-classes:/Users/zhangfuhaozhang/workspace/DemoClass2/target/classes:/Users/zhangfuhaozhang/mavenrespotry/junit/junit/4.11/junit-4.11.jar:/Users/zhangfuhaozhang/mavenrespotry/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar:"/>
     <property name="sun.cpu.endian" value="little"/>
@@ -31,7 +31,7 @@
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.awt.graphicsenv" value="sun.awt.CGraphicsEnvironment"/>
-    <property name="surefire.real.class.path" value="/Users/zhangfuhaozhang/workspace/DemoClass2/target/surefire/surefirebooter4193638148982402782.jar"/>
+    <property name="surefire.real.class.path" value="/Users/zhangfuhaozhang/workspace/DemoClass2/target/surefire/surefirebooter4520187411928522964.jar"/>
     <property name="sun.boot.class.path" value="/Applications/IntelliJ IDEA.app/Contents/jdk/Contents/Home/jre/lib/resources.jar:/Applications/IntelliJ IDEA.app/Contents/jdk/Contents/Home/jre/lib/rt.jar:/Applications/IntelliJ IDEA.app/Contents/jdk/Contents/Home/jre/lib/sunrsasign.jar:/Applications/IntelliJ IDEA.app/Contents/jdk/Contents/Home/jre/lib/jsse.jar:/Applications/IntelliJ IDEA.app/Contents/jdk/Contents/Home/jre/lib/jce.jar:/Applications/IntelliJ IDEA.app/Contents/jdk/Contents/Home/jre/lib/charsets.jar:/Applications/IntelliJ IDEA.app/Contents/jdk/Contents/Home/jre/lib/jfr.jar:/Applications/IntelliJ IDEA.app/Contents/jdk/Contents/Home/jre/classes"/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
